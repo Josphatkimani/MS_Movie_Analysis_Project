@@ -31,18 +31,38 @@ Details on the dataset and the Jupyter Notebook containing the analysis can be f
 1. Ensure you have Python installed with libraries such as `pandas`, `matplotlib`, and `seaborn`.
 2. Clone the repository and run the Jupyter Notebook.
 
-## Contributing
-Contributions to the project are welcome. Please ensure to follow the standard pull request process and adhere to the code of conduct of this project.
+
+## Contributing to This Project
+
+We are excited that you are interested in contributing to this project! This project contains content adapted from Learn.co's open curriculum, and we follow a similar model for contributions. Whether you're correcting typos, updating information, improving the code, or adding new insights, your contributions are welcome.
+
+### Raising an Issue
+
+If you notice a problem or have a suggestion but are unable to make the change yourself, please raise a GitHub issue with a clear description of the matter. Include relevant snippets of the content, code, or screenshots if applicable. We regularly review issue lists and will prioritize and address your issue appropriately.
+
+### Submitting a Pull Request
+
+If you can make the change yourself, we encourage you to do so using the standard Git workflow:
+
+1. Fork this repository.
+2. Make your changes in your fork, with descriptive commits in a standard format.
+3. Open a Pull Request against this repository.
+
+Your changes will be reviewed by a maintainer and merged if deemed appropriate.
+
+## Why Contribute?
+
+The goal of this project, inspired by Learn.co's [Educational Content License](https://learn.co/content-license), is to continually improve the quality of the educational materials and code we provide. Contributions from the community are essential in maintaining and enhancing this project.
+
+[...]
 
 ## License
 This project contains educational content provided by the Flatiron School. The educational content is licensed under the terms of the Educational Content License provided by the Flatiron School. For more details on the license terms, please refer to the following link: [Flatiron Educational Content License](http://learn.co/content-license).
 
-Your use of the educational content is subject to your acceptance of the terms and conditions of the Educational Content License. By accessing and/or using the educational content, you agree to the terms and conditions contained in this license.
-
-If your project includes additional content or code that is not covered by the Flatiron School's license, you should also include information about that here. For example:
+[...]
 
 ## Contact
-For any queries, please open an issue in the repository or contact the repository owner.
+For any queries, please open an issue in the repository or contact the repository owner(lawsons254).
 
 ---
 *This README is part of the Film Industry Analysis project. For more details, refer to the accompanying Jupyter Notebook.*
