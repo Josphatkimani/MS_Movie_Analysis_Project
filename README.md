@@ -35,7 +35,11 @@ Details on the dataset and the Jupyter Notebook containing the analysis can be f
 Contributions to the project are welcome. Please ensure to follow the standard pull request process and adhere to the code of conduct of this project.
 
 ## License
-[MIT License](LICENSE)
+This project contains educational content provided by the Flatiron School. The educational content is licensed under the terms of the Educational Content License provided by the Flatiron School. For more details on the license terms, please refer to the following link: [Flatiron Educational Content License](http://learn.co/content-license).
+
+Your use of the educational content is subject to your acceptance of the terms and conditions of the Educational Content License. By accessing and/or using the educational content, you agree to the terms and conditions contained in this license.
+
+If your project includes additional content or code that is not covered by the Flatiron School's license, you should also include information about that here. For example:
 
 ## Contact
 For any queries, please open an issue in the repository or contact the repository owner.
